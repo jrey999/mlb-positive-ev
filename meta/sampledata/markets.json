@@ -1,0 +1,12745 @@
+[
+{
+"id": "151549f3b754a3d9c5590f44f679f33d",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-14T22:05:00Z",
+"home_team": "Philadelphia Phillies",
+"away_team": "San Diego Padres",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.95
+},
+{
+"name": "San Diego Padres",
+"price": 1.87
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.59,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.45,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.95
+},
+{
+"name": "San Diego Padres",
+"price": 1.92
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.57,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.45,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.96
+},
+{
+"name": "San Diego Padres",
+"price": 1.89
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.58,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.42,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.96,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.96
+},
+{
+"name": "San Diego Padres",
+"price": 1.88
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.6,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.35,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.88,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.93,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.96
+},
+{
+"name": "San Diego Padres",
+"price": 1.85
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.6,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.35,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.88,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.93,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.94
+},
+{
+"name": "San Diego Padres",
+"price": 1.88
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.6,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.35,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.96,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.96
+},
+{
+"name": "San Diego Padres",
+"price": 1.94
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.96
+},
+{
+"name": "San Diego Padres",
+"price": 1.88
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.6,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.35,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.88,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.93,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.93
+},
+{
+"name": "San Diego Padres",
+"price": 1.88
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.59,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.45,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.91
+},
+{
+"name": "San Diego Padres",
+"price": 1.83
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.72,
+"point": 1.0
+},
+{
+"name": "San Diego Padres",
+"price": 2.1,
+"point": -1.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.99
+},
+{
+"name": "San Diego Padres",
+"price": 1.92
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.61,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.45,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.99
+},
+{
+"name": "San Diego Padres",
+"price": 1.92
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.49,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.89,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.98,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.95
+},
+{
+"name": "San Diego Padres",
+"price": 1.87
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.59,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.43,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 2.0
+},
+{
+"name": "San Diego Padres",
+"price": 1.91
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.61,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.45,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.95
+},
+{
+"name": "San Diego Padres",
+"price": 1.87
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.57,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.45,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.95
+},
+{
+"name": "San Diego Padres",
+"price": 1.87
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.61,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.94
+},
+{
+"name": "San Diego Padres",
+"price": 1.91
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "d2a764ab342444134b3fab6c8c6a9397",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-14T23:05:00Z",
+"home_team": "Baltimore Orioles",
+"away_team": "Miami Marlins",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.71
+},
+{
+"name": "Miami Marlins",
+"price": 2.2
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.55,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.56,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.69
+},
+{
+"name": "Miami Marlins",
+"price": 2.2
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.5,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.56,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.72
+},
+{
+"name": "Miami Marlins",
+"price": 2.18
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.46,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.56,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.73
+},
+{
+"name": "Miami Marlins",
+"price": 2.17
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.55,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.51,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.96,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.73
+},
+{
+"name": "Miami Marlins",
+"price": 2.17
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.55,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.51,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.96,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.7
+},
+{
+"name": "Miami Marlins",
+"price": 2.17
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.43,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.57,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.89,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.93,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.78
+},
+{
+"name": "Miami Marlins",
+"price": 2.17
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.73
+},
+{
+"name": "Miami Marlins",
+"price": 2.17
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.55,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.51,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.96,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.71
+},
+{
+"name": "Miami Marlins",
+"price": 2.18
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.55,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.56,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.67
+},
+{
+"name": "Miami Marlins",
+"price": 2.1
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.0,
+"point": -1.0
+},
+{
+"name": "Miami Marlins",
+"price": 1.8,
+"point": 1.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.78
+},
+{
+"name": "Miami Marlins",
+"price": 2.19
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.6,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.56,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.98,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.77
+},
+{
+"name": "Miami Marlins",
+"price": 2.19
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.63,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.56,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.86,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 2.01,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.74
+},
+{
+"name": "Miami Marlins",
+"price": 2.15
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.58,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.53,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.78
+},
+{
+"name": "Miami Marlins",
+"price": 2.19
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.65,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.54,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.71
+},
+{
+"name": "Miami Marlins",
+"price": 2.2
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.5,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.56,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.74
+},
+{
+"name": "Miami Marlins",
+"price": 2.15
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 2.5,
+"point": -1.5
+},
+{
+"name": "Miami Marlins",
+"price": 1.54,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.77
+},
+{
+"name": "Miami Marlins",
+"price": 2.1
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "2b904f4b6728e2a31a8bddb31f05c466",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-14T23:05:00Z",
+"home_team": "Pittsburgh Pirates",
+"away_team": "San Francisco Giants",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.05
+},
+{
+"name": "San Francisco Giants",
+"price": 1.8
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.67,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.05
+},
+{
+"name": "San Francisco Giants",
+"price": 1.8
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.67,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.25,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.06
+},
+{
+"name": "San Francisco Giants",
+"price": 1.81
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.65,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.28,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.04
+},
+{
+"name": "San Francisco Giants",
+"price": 1.79
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.64,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.28,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.88,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.93,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.04
+},
+{
+"name": "San Francisco Giants",
+"price": 1.82
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.63,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.32,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.92,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.04
+},
+{
+"name": "San Francisco Giants",
+"price": 1.82
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.63,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.32,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.92,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.1
+},
+{
+"name": "San Francisco Giants",
+"price": 1.83
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.04
+},
+{
+"name": "San Francisco Giants",
+"price": 1.82
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.63,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.32,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.92,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.06
+},
+{
+"name": "San Francisco Giants",
+"price": 1.79
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.67,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.0
+},
+{
+"name": "San Francisco Giants",
+"price": 1.75
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.8,
+"point": 1.0
+},
+{
+"name": "San Francisco Giants",
+"price": 2.0,
+"point": -1.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.12
+},
+{
+"name": "San Francisco Giants",
+"price": 1.82
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.66,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.31,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.12
+},
+{
+"name": "San Francisco Giants",
+"price": 1.82
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.68,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.36,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.94,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.94,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.1
+},
+{
+"name": "San Francisco Giants",
+"price": 1.77
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.65,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.12
+},
+{
+"name": "San Francisco Giants",
+"price": 1.82
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.67,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.05
+},
+{
+"name": "San Francisco Giants",
+"price": 1.8
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.69,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.25,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.15,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.74,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.1
+},
+{
+"name": "San Francisco Giants",
+"price": 1.77
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.65,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.25,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.06
+},
+{
+"name": "San Francisco Giants",
+"price": 1.81
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "d4b31fa45285762aae414ea824400c0e",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-14T23:07:00Z",
+"home_team": "Toronto Blue Jays",
+"away_team": "Arizona Diamondbacks",
+"bookmakers": [
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.48
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.56
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.7,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.16,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.96,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.46
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.56
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.75,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.09,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.96,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.86,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.48
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.56
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.7,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.16,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.96,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.48
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.56
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.7,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.16,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.97,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.57
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.74,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.15,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.54
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.54
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.78,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.06,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.82,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.45
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.57
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.74,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.1,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.57
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.77,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.1,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.56
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.74,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.15,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.56
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.59
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.77,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.2,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.56
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.77,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.1,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.55
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.57
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.74,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.15,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.8,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.05,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.56
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.59
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.74,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.15,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.86,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.97,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.55
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.59
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.4
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.53
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.1,
+"point": 1.0
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.72,
+"point": -1.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.44
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.57
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 1.74,
+"point": 1.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 2.15,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Arizona Diamondbacks",
+"price": 2.5
+},
+{
+"name": "Toronto Blue Jays",
+"price": 1.57
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.8,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.05,
+"point": 9.0
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "59b1f14afd0ae28493949fe987b6f1fa",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-14T23:10:00Z",
+"home_team": "Cincinnati Reds",
+"away_team": "Milwaukee Brewers",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.95
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.87
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.65,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.35,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.95
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.87
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.98
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.86
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.61,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.36,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.96
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.88
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.57,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.93,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.88,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.96
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.88
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.57,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.93,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.88,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.95
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.86
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.61,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.34,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.92,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.9,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 2.02
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.89
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.96
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.88
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.57,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.93,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.88,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.95
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.87
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.35,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.91
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.83
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.72,
+"point": 1.0
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.1,
+"point": -1.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.98
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.93
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.98
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.93
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.64,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.44,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.98,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.89,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.95
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.87
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.35,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.99
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.92
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.95
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.87
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.61,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.8,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 2.05,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.95
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.87
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.35,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 10.0
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.93
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.92
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 10.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 10.0
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "fa61df9f6e9b79c20ae1053e4f03fb1a",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-14T23:10:00Z",
+"home_team": "New York Mets",
+"away_team": "Los Angeles Dodgers",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.83
+},
+{
+"name": "New York Mets",
+"price": 2.0
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.4,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.61,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.83
+},
+{
+"name": "New York Mets",
+"price": 2.0
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.3,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.62,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.85
+},
+{
+"name": "New York Mets",
+"price": 2.0
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.38,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.6,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.96,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.88
+},
+{
+"name": "New York Mets",
+"price": 1.96
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.5,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.54,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.0
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.88
+},
+{
+"name": "New York Mets",
+"price": 1.96
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.5,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.54,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.0
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.83
+},
+{
+"name": "New York Mets",
+"price": 1.98
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.34,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.6,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.93,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.89,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.91
+},
+{
+"name": "New York Mets",
+"price": 2.0
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.88
+},
+{
+"name": "New York Mets",
+"price": 1.96
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.5,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.54,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.0
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.85
+},
+{
+"name": "New York Mets",
+"price": 1.98
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.4,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.61,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.8
+},
+{
+"name": "New York Mets",
+"price": 1.95
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.05,
+"point": -1.0
+},
+{
+"name": "New York Mets",
+"price": 1.75,
+"point": 1.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.9
+},
+{
+"name": "New York Mets",
+"price": 2.01
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.4,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.62,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.96,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.86,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.9
+},
+{
+"name": "New York Mets",
+"price": 2.01
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.44,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.64,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.99,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.88,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.87
+},
+{
+"name": "New York Mets",
+"price": 1.95
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.4,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.61,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.91
+},
+{
+"name": "New York Mets",
+"price": 2.0
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.4,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.62,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.83
+},
+{
+"name": "New York Mets",
+"price": 2.0
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.4,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.61,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.87
+},
+{
+"name": "New York Mets",
+"price": 1.95
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 2.45,
+"point": -1.5
+},
+{
+"name": "New York Mets",
+"price": 1.57,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Los Angeles Dodgers",
+"price": 1.88
+},
+{
+"name": "New York Mets",
+"price": 1.97
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 8.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "02956c7989db04b1276bbd2301cb9be7",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-14T23:20:00Z",
+"home_team": "Atlanta Braves",
+"away_team": "Chicago White Sox",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.38
+},
+{
+"name": "Chicago White Sox",
+"price": 3.25
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.74,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.15,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.38
+},
+{
+"name": "Chicago White Sox",
+"price": 3.1
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.77,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.1,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.37
+},
+{
+"name": "Chicago White Sox",
+"price": 3.2
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.75,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.12,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.82,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.38
+},
+{
+"name": "Chicago White Sox",
+"price": 3.15
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.72,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.14,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.94,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.88,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.38
+},
+{
+"name": "Chicago White Sox",
+"price": 3.15
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.72,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.14,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.94,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.88,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.36
+},
+{
+"name": "Chicago White Sox",
+"price": 3.15
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 2.09,
+"point": -2.5
+},
+{
+"name": "Chicago White Sox",
+"price": 1.75,
+"point": 2.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.99,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.41
+},
+{
+"name": "Chicago White Sox",
+"price": 3.2
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.38
+},
+{
+"name": "Chicago White Sox",
+"price": 3.15
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.72,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.14,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.94,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.88,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.37
+},
+{
+"name": "Chicago White Sox",
+"price": 3.2
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.74,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.15,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.35
+},
+{
+"name": "Chicago White Sox",
+"price": 3.0
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.95,
+"point": -2.0
+},
+{
+"name": "Chicago White Sox",
+"price": 1.85,
+"point": 2.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.4
+},
+{
+"name": "Chicago White Sox",
+"price": 3.22
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.74,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.15,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.4
+},
+{
+"name": "Chicago White Sox",
+"price": 3.22
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.77,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.2,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.03,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.36
+},
+{
+"name": "Chicago White Sox",
+"price": 3.22
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.71,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.18,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.4
+},
+{
+"name": "Chicago White Sox",
+"price": 3.1
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.74,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.15,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.37
+},
+{
+"name": "Chicago White Sox",
+"price": 3.2
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.74,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.15,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.4
+},
+{
+"name": "Chicago White Sox",
+"price": 3.0
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 2.05,
+"point": -2.5
+},
+{
+"name": "Chicago White Sox",
+"price": 1.8,
+"point": 2.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.38
+},
+{
+"name": "Chicago White Sox",
+"price": 3.15
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 9.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "94c9051f9ea1d6f95259f722833d99ed",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T00:05:00Z",
+"home_team": "Chicago Cubs",
+"away_team": "Boston Red Sox",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.74
+},
+{
+"name": "Chicago Cubs",
+"price": 2.15
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.25,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.69,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.71
+},
+{
+"name": "Chicago Cubs",
+"price": 2.15
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.3,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.62,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.75
+},
+{
+"name": "Chicago Cubs",
+"price": 2.14
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.14,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.73,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.96,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.74
+},
+{
+"name": "Chicago Cubs",
+"price": 2.12
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.17,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.7,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.96,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.75
+},
+{
+"name": "Chicago Cubs",
+"price": 2.14
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.17,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.71,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.82,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.75
+},
+{
+"name": "Chicago Cubs",
+"price": 2.14
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.17,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.71,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.82,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.79
+},
+{
+"name": "Chicago Cubs",
+"price": 2.15
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.75
+},
+{
+"name": "Chicago Cubs",
+"price": 2.14
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.17,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.71,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.02,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.75
+},
+{
+"name": "Chicago Cubs",
+"price": 2.12
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.25,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.69,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.76
+},
+{
+"name": "Chicago Cubs",
+"price": 2.21
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.2,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.71,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.79,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.06,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.76
+},
+{
+"name": "Chicago Cubs",
+"price": 2.21
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.25,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.74,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.81,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.08,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.7
+},
+{
+"name": "Chicago Cubs",
+"price": 2.1
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.91,
+"point": -1.0
+},
+{
+"name": "Chicago Cubs",
+"price": 1.91,
+"point": 1.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.74
+},
+{
+"name": "Chicago Cubs",
+"price": 2.15
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.18,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.71,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.76
+},
+{
+"name": "Chicago Cubs",
+"price": 2.22
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.2,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.71,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.8,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.05,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.74
+},
+{
+"name": "Chicago Cubs",
+"price": 2.15
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.2,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.71,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.74
+},
+{
+"name": "Chicago Cubs",
+"price": 2.1
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.25,
+"point": -1.5
+},
+{
+"name": "Chicago Cubs",
+"price": 1.67,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 1.76
+},
+{
+"name": "Chicago Cubs",
+"price": 2.12
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.8,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.05,
+"point": 9.0
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "61acd927ed01f94907da560c8b8d1734",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T00:05:00Z",
+"home_team": "Texas Rangers",
+"away_team": "Cleveland Guardians",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.2
+},
+{
+"name": "Texas Rangers",
+"price": 1.71
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.59,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.45,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.2
+},
+{
+"name": "Texas Rangers",
+"price": 1.69
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.57,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.45,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.18
+},
+{
+"name": "Texas Rangers",
+"price": 1.72
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.59,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.96,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.2
+},
+{
+"name": "Texas Rangers",
+"price": 1.72
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.57,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.82,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.2
+},
+{
+"name": "Texas Rangers",
+"price": 1.7
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.57,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.82,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.16
+},
+{
+"name": "Texas Rangers",
+"price": 1.7
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.57,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.42,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.99,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.2
+},
+{
+"name": "Texas Rangers",
+"price": 1.72
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.57,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 2.02,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.19
+},
+{
+"name": "Texas Rangers",
+"price": 1.7
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.59,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.45,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.24
+},
+{
+"name": "Texas Rangers",
+"price": 1.74
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.21
+},
+{
+"name": "Texas Rangers",
+"price": 1.76
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.59,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.5,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.21
+},
+{
+"name": "Texas Rangers",
+"price": 1.76
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.6,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.54,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.76,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 2.15,
+"point": 8.0
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.1
+},
+{
+"name": "Texas Rangers",
+"price": 1.67
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.75,
+"point": 1.0
+},
+{
+"name": "Texas Rangers",
+"price": 2.05,
+"point": -1.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.18
+},
+{
+"name": "Texas Rangers",
+"price": 1.71
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.59,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.43,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.24
+},
+{
+"name": "Texas Rangers",
+"price": 1.75
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.56,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.6,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.15
+},
+{
+"name": "Texas Rangers",
+"price": 1.74
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.56,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.5,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.15
+},
+{
+"name": "Texas Rangers",
+"price": 1.74
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.57,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.45,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.15
+},
+{
+"name": "Texas Rangers",
+"price": 1.74
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 8.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "b2499e579e647a2e3d3d10d271a6b6c9",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T00:10:00Z",
+"home_team": "Kansas City Royals",
+"away_team": "Tampa Bay Rays",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.35
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.36
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.4,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.61,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.3
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.34
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.4,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.59,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.35
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.34
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.4,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.59,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.27
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.34
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 1.93,
+"point": 2.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.88,
+"point": -2.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.9,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.92,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.35
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.35
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.32,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.63,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.93,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.88,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.4
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.34
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.33,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.6,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.93,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.89,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.35
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.35
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.32,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.63,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.93,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.88,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.25
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.36
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.4,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.61,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.3
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.39
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.3
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.38
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.43,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.61,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.3
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.39
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.47,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.62,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.89,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.98,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.28
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.35
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.43,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.59,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.1
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.33
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 1.91,
+"point": 2.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.91,
+"point": -2.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.3
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.36
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.45,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.61,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.3
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.36
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 1.91,
+"point": 2.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.91,
+"point": -2.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.15,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.74,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.2
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.36
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 1.91,
+"point": 2.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.91,
+"point": -2.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 3.35
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.34
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "2a701e6fae2bd9423013b80ac343f77b",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T00:15:00Z",
+"home_team": "St. Louis Cardinals",
+"away_team": "Washington Nationals",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.56
+},
+{
+"name": "Washington Nationals",
+"price": 2.55
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.1,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.77,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.53
+},
+{
+"name": "Washington Nationals",
+"price": 2.58
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.1,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.76,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.82,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.54
+},
+{
+"name": "Washington Nationals",
+"price": 2.65
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.15,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.74,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.53
+},
+{
+"name": "Washington Nationals",
+"price": 2.6
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.1,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.77,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.53
+},
+{
+"name": "Washington Nationals",
+"price": 2.58
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.1,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.77,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.5
+},
+{
+"name": "Washington Nationals",
+"price": 2.45
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.05,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.75,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.54
+},
+{
+"name": "Washington Nationals",
+"price": 2.57
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.55
+},
+{
+"name": "Washington Nationals",
+"price": 2.55
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.07,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.76,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.55
+},
+{
+"name": "Washington Nationals",
+"price": 2.55
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.07,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.76,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.51
+},
+{
+"name": "Washington Nationals",
+"price": 2.55
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.07,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.76,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.54
+},
+{
+"name": "Washington Nationals",
+"price": 2.5
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.1,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.74,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.56
+},
+{
+"name": "Washington Nationals",
+"price": 2.65
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.12,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.76,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.81,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.04,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.56
+},
+{
+"name": "Washington Nationals",
+"price": 2.65
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.17,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.79,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.82,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.06,
+"point": 9.0
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.54
+},
+{
+"name": "Washington Nationals",
+"price": 2.68
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.53
+},
+{
+"name": "Washington Nationals",
+"price": 2.56
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.1,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.77,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.05,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.8,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.53
+},
+{
+"name": "Washington Nationals",
+"price": 2.52
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.08,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.76,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 9.5
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 1.53
+},
+{
+"name": "Washington Nationals",
+"price": 2.6
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "St. Louis Cardinals",
+"price": 2.1,
+"point": -1.5
+},
+{
+"name": "Washington Nationals",
+"price": 1.77,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 9.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 9.0
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "54cea007af26125b5f39c995a4618533",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T00:40:00Z",
+"home_team": "Colorado Rockies",
+"away_team": "New York Yankees",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.75
+},
+{
+"name": "New York Yankees",
+"price": 1.49
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.1,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 1.77,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 11.0
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.72
+},
+{
+"name": "New York Yankees",
+"price": 1.49
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.1,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 1.76,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.88,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.94,
+"point": 11.0
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.69
+},
+{
+"name": "New York Yankees",
+"price": 1.47
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 1.78,
+"point": 2.5
+},
+{
+"name": "New York Yankees",
+"price": 2.05,
+"point": -2.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.88,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.93,
+"point": 11.0
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.8
+},
+{
+"name": "New York Yankees",
+"price": 1.45
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.15,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 1.72,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.96,
+"point": 11.5
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 11.5
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.8
+},
+{
+"name": "New York Yankees",
+"price": 1.45
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.15,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 1.72,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.96,
+"point": 11.5
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 11.5
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.85
+},
+{
+"name": "New York Yankees",
+"price": 1.49
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.8
+},
+{
+"name": "New York Yankees",
+"price": 1.45
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.15,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 1.72,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.97,
+"point": 11.5
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 11.5
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.68
+},
+{
+"name": "New York Yankees",
+"price": 1.49
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.15,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 1.74,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 11.0
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.79
+},
+{
+"name": "New York Yankees",
+"price": 1.51
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.15,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 1.74,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 11.0
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.79
+},
+{
+"name": "New York Yankees",
+"price": 1.51
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.2,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 1.77,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.94,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.94,
+"point": 11.0
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.75
+},
+{
+"name": "New York Yankees",
+"price": 1.48
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.18,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 1.71,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 11.0
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.75
+},
+{
+"name": "New York Yankees",
+"price": 1.51
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.2,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 1.71,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 11.0
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.7
+},
+{
+"name": "New York Yankees",
+"price": 1.5
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 1.77,
+"point": 2.5
+},
+{
+"name": "New York Yankees",
+"price": 2.1,
+"point": -2.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.1,
+"point": 11.5
+},
+{
+"name": "Under",
+"price": 1.77,
+"point": 11.5
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.55
+},
+{
+"name": "New York Yankees",
+"price": 1.47
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 1.95,
+"point": 2.0
+},
+{
+"name": "New York Yankees",
+"price": 1.85,
+"point": -2.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 11.0
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.7
+},
+{
+"name": "New York Yankees",
+"price": 1.48
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 1.77,
+"point": 2.5
+},
+{
+"name": "New York Yankees",
+"price": 2.05,
+"point": -2.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 11.0
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.65
+},
+{
+"name": "New York Yankees",
+"price": 1.5
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.15,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 1.71,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 11.0
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.72
+},
+{
+"name": "New York Yankees",
+"price": 1.49
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 11.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 11.0
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "78fbdfec446155246255d86a504d8717",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T01:38:00Z",
+"home_team": "Los Angeles Angels",
+"away_team": "Houston Astros",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.35
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.65
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.65,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.35,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 8.0
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.3
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.62
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.0
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.32
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.64
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.67,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.25,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.82,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 8.0
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.33
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.64
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.63,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.97,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.33
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.64
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.63,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.97,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.31
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.62
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.31,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.35
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.68
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.33
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.64
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.63,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.97,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.85,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.32
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.63
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.67,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.35
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.68
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.63,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.38,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.79,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 2.07,
+"point": 8.0
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.3
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.7
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.65,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.42,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.8,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 2.09,
+"point": 8.0
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.35
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.62
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.61,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.35
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.67
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.4,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.35
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.65
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.35,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 8.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.25
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.67
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.62,
+"point": 1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.35,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 8.0
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.25
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.6
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.91,
+"point": 1.0
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.91,
+"point": -1.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.0
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.33
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.64
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 8.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "bd311a73b351dab92931bec4dd2c15e6",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T02:10:00Z",
+"home_team": "Seattle Mariners",
+"away_team": "Detroit Tigers",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.55
+},
+{
+"name": "Seattle Mariners",
+"price": 1.56
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.71,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.2,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "pointsbetus",
+"title": "PointsBet (US)",
+"last_update": "2023-07-14T15:42:55Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.5
+},
+{
+"name": "Seattle Mariners",
+"price": 1.56
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.69,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.2,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:55Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "fanduel",
+"title": "FanDuel",
+"last_update": "2023-07-14T15:43:35Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.5
+},
+{
+"name": "Seattle Mariners",
+"price": 1.56
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.69,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.2,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:35Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "unibet_us",
+"title": "Unibet",
+"last_update": "2023-07-14T15:43:41Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.55
+},
+{
+"name": "Seattle Mariners",
+"price": 1.54
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.67,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.23,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:41Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "twinspires",
+"title": "TwinSpires",
+"last_update": "2023-07-14T15:42:48Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.55
+},
+{
+"name": "Seattle Mariners",
+"price": 1.54
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.67,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.23,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:48Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "mybookieag",
+"title": "MyBookie.ag",
+"last_update": "2023-07-14T15:42:32Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.5
+},
+{
+"name": "Seattle Mariners",
+"price": 1.54
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.68,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.2,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:32Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.94,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.88,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "betrivers",
+"title": "BetRivers",
+"last_update": "2023-07-14T15:44:07Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.55
+},
+{
+"name": "Seattle Mariners",
+"price": 1.54
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.67,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.23,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:44:07Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "bovada",
+"title": "Bovada",
+"last_update": "2023-07-14T15:42:56Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.49
+},
+{
+"name": "Seattle Mariners",
+"price": 1.55
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.69,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.25,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:56Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "wynnbet",
+"title": "WynnBET",
+"last_update": "2023-07-14T15:40:44Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:40:44Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.58
+},
+{
+"name": "Seattle Mariners",
+"price": 1.57
+}
+]
+}
+]
+},
+{
+"key": "betonlineag",
+"title": "BetOnline.ag",
+"last_update": "2023-07-14T15:42:28Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.57
+},
+{
+"name": "Seattle Mariners",
+"price": 1.58
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.69,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.25,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:28Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "lowvig",
+"title": "LowVig.ag",
+"last_update": "2023-07-14T15:43:51Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.57
+},
+{
+"name": "Seattle Mariners",
+"price": 1.58
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.71,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:51Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.74,
+"point": 6.5
+},
+{
+"name": "Under",
+"price": 2.18,
+"point": 6.5
+}
+]
+}
+]
+},
+{
+"key": "williamhill_us",
+"title": "William Hill (US)",
+"last_update": "2023-07-14T15:42:58Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.58
+},
+{
+"name": "Seattle Mariners",
+"price": 1.53
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.71,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.18,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:58Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "betus",
+"title": "BetUS",
+"last_update": "2023-07-14T15:42:22Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.61
+},
+{
+"name": "Seattle Mariners",
+"price": 1.55
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.74,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.15,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:22Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "barstool",
+"title": "Barstool Sportsbook",
+"last_update": "2023-07-14T15:43:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.5
+},
+{
+"name": "Seattle Mariners",
+"price": 1.57
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.67,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.3,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.1,
+"point": 7.5
+},
+{
+"name": "Under",
+"price": 1.77,
+"point": 7.5
+}
+]
+}
+]
+},
+{
+"key": "betmgm",
+"title": "BetMGM",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.5
+},
+{
+"name": "Seattle Mariners",
+"price": 1.54
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.71,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.15,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "foxbet",
+"title": "FOX Bet",
+"last_update": "2023-07-14T15:41:37Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.45
+},
+{
+"name": "Seattle Mariners",
+"price": 1.5
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.0,
+"point": 1.0
+},
+{
+"name": "Seattle Mariners",
+"price": 1.8,
+"point": -1.0
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:41:37Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.85,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 7.0
+}
+]
+}
+]
+},
+{
+"key": "superbook",
+"title": "SuperBook",
+"last_update": "2023-07-14T15:43:01Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.5
+},
+{
+"name": "Seattle Mariners",
+"price": 1.57
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:43:01Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 7.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 7.0
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "d0dad26c7299258bb854807f2fb15110",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T17:05:00Z",
+"home_team": "Philadelphia Phillies",
+"away_team": "San Diego Padres",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 2.15
+},
+{
+"name": "San Diego Padres",
+"price": 1.74
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Philadelphia Phillies",
+"price": 1.71,
+"point": 1.5
+},
+{
+"name": "San Diego Padres",
+"price": 2.2,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 8.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "e4b50cf442d7f4b768633f21147a9ab6",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T18:20:00Z",
+"home_team": "Chicago Cubs",
+"away_team": "Boston Red Sox",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Boston Red Sox",
+"price": 2.15
+},
+{
+"name": "Chicago Cubs",
+"price": 1.74
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "29086be02437acb41aaac9e366475c49",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T20:05:00Z",
+"home_team": "Texas Rangers",
+"away_team": "Cleveland Guardians",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 2.55
+},
+{
+"name": "Texas Rangers",
+"price": 1.56
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cleveland Guardians",
+"price": 1.71,
+"point": 1.5
+},
+{
+"name": "Texas Rangers",
+"price": 2.2,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 8.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "2b3d7457dc4137c5e85e04f43a9afb19",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T23:05:00Z",
+"home_team": "Baltimore Orioles",
+"away_team": "Miami Marlins",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.87
+},
+{
+"name": "Miami Marlins",
+"price": 1.95
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Baltimore Orioles",
+"price": 1.53,
+"point": 1.5
+},
+{
+"name": "Miami Marlins",
+"price": 2.6,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.95,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 1.87,
+"point": 8.0
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "ff892884362b2e76e0c400c4e9b8bd29",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T23:05:00Z",
+"home_team": "Pittsburgh Pirates",
+"away_team": "San Francisco Giants",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 2.4
+},
+{
+"name": "San Francisco Giants",
+"price": 1.61
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Pittsburgh Pirates",
+"price": 1.83,
+"point": 1.5
+},
+{
+"name": "San Francisco Giants",
+"price": 2.0,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 8.0
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 8.0
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "6b14ad4273b605e5a4f4928bdf00199f",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T23:10:00Z",
+"home_team": "Cincinnati Reds",
+"away_team": "Milwaukee Brewers",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 1.74
+},
+{
+"name": "Milwaukee Brewers",
+"price": 2.15
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Cincinnati Reds",
+"price": 2.45,
+"point": -1.5
+},
+{
+"name": "Milwaukee Brewers",
+"price": 1.59,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 9.5
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 9.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "b7eed8f5ddef2ed03e7c8b2ff0bf107d",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T23:10:00Z",
+"home_team": "Kansas City Royals",
+"away_team": "Tampa Bay Rays",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.8
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.48
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Kansas City Royals",
+"price": 2.1,
+"point": 1.5
+},
+{
+"name": "Tampa Bay Rays",
+"price": 1.77,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.87,
+"point": 8.5
+},
+{
+"name": "Under",
+"price": 1.95,
+"point": 8.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "4c6cb11b7f1faf14cadb44b994cbf645",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-15T23:15:00Z",
+"home_team": "Atlanta Braves",
+"away_team": "Chicago White Sox",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.38
+},
+{
+"name": "Chicago White Sox",
+"price": 3.2
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Atlanta Braves",
+"price": 1.74,
+"point": -1.5
+},
+{
+"name": "Chicago White Sox",
+"price": 2.15,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.83,
+"point": 7.5
+},
+{
+"name": "Under",
+"price": 2.0,
+"point": 7.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "80a8717450ed19d60528325db9a8fbc1",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-16T00:10:00Z",
+"home_team": "Colorado Rockies",
+"away_team": "New York Yankees",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 2.2
+},
+{
+"name": "New York Yankees",
+"price": 1.71
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Colorado Rockies",
+"price": 1.8,
+"point": 1.5
+},
+{
+"name": "New York Yankees",
+"price": 2.05,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 1.91,
+"point": 11.5
+},
+{
+"name": "Under",
+"price": 1.91,
+"point": 11.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "1f8fe19e46375e3d26056578084cdd2e",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-16T01:07:00Z",
+"home_team": "Los Angeles Angels",
+"away_team": "Houston Astros",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 1.77
+},
+{
+"name": "Los Angeles Angels",
+"price": 2.1
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Houston Astros",
+"price": 2.35,
+"point": -1.5
+},
+{
+"name": "Los Angeles Angels",
+"price": 1.65,
+"point": 1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 7.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 7.5
+}
+]
+}
+]
+}
+]
+},
+{
+"id": "0238bb4cb2edde08a4a665de32f6d2dc",
+"sport_key": "baseball_mlb",
+"sport_title": "MLB",
+"commence_time": "2023-07-16T01:40:00Z",
+"home_team": "Seattle Mariners",
+"away_team": "Detroit Tigers",
+"bookmakers": [
+{
+"key": "draftkings",
+"title": "DraftKings",
+"last_update": "2023-07-14T15:42:39Z",
+"markets": [
+{
+"key": "h2h",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 2.65
+},
+{
+"name": "Seattle Mariners",
+"price": 1.51
+}
+]
+},
+{
+"key": "spreads",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Detroit Tigers",
+"price": 1.74,
+"point": 1.5
+},
+{
+"name": "Seattle Mariners",
+"price": 2.15,
+"point": -1.5
+}
+]
+},
+{
+"key": "totals",
+"last_update": "2023-07-14T15:42:39Z",
+"outcomes": [
+{
+"name": "Over",
+"price": 2.0,
+"point": 7.5
+},
+{
+"name": "Under",
+"price": 1.83,
+"point": 7.5
+}
+]
+}
+]
+}
+]
+}
+]
