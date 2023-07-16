@@ -30,7 +30,7 @@ WITH last_line AS (
             ON
         game.game_id = money_line.game_id
     WHERE
-        game.game_date > CURRENT_TIMESTAMP
+        game.game_date > datetime('now', '+5 hours')
 )
 SELECT
     last_line.team, last_line.opp, last_line.sportsbook,
@@ -53,6 +53,6 @@ LEFT JOIN
         AND
     last_line.team = agg_lines.team
 WHERE
-    last_line.imp_prob > agg_lines.imp_prob
+    positive_ev > .01
 ORDER BY
     positive_ev;

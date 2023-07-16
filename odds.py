@@ -1,5 +1,5 @@
-from data.datamodels import Game, DB
-from data.funcs import get_markets
+from odds.datamodels import Game, DB
+from odds.funcs import get_markets
 
 
 data, cursor = get_markets(), DB.cursor()
