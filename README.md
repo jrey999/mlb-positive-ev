@@ -36,4 +36,4 @@ Generate Positive EV Report
 ```bash
 ./shell/queries.sh
 ````
-Reports are output ![HERE](/data/reports)
+Reports are output [here](data/reports)
