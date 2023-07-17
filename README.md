@@ -16,7 +16,7 @@ Clone the repo
 git clone https://github.com/jrey999/mlb-positive-ev.git && cd mlb-positive-ev
 ```
 
-Create a .env file in the root directory of the project with the following:
+Create a ```.env``` file in the root directory of the project with the following:
 ```bash
 API_KEY=<your_api_key_here>
 ```
