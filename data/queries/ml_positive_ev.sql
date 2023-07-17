@@ -1,6 +1,6 @@
 WITH last_line AS (
     SELECT
-        money_line.game_id, money_line.sportsbook, money_line.team,
+        money_line.game_id, money_line.sportsbook, money_line.team, game.game_date,
         (
             CASE
                 WHEN game.away = money_line.team THEN game.home
@@ -33,9 +33,11 @@ WITH last_line AS (
         game.game_date > datetime('now', '+5 hours')
 )
 SELECT
-    last_line.team, last_line.opp, last_line.sportsbook,
-    last_line.updated, last_line.price, last_line.imp_prob, 
-    agg_lines.imp_prob, last_line.imp_prob - agg_lines.imp_prob As positive_ev
+    last_line.team, last_line.opp, last_line.game_date, last_line.sportsbook,
+    last_line.price, ROUND(agg_lines.avg_line, 2) AS avg_price,
+    ROUND(last_line.imp_prob, 5) AS imp_prob,
+    ROUND(agg_lines.imp_prob, 5) As avg_imp_prob, 
+    ROUND(agg_lines.imp_prob - last_line.imp_prob, 5) As positive_ev
 FROM
     last_line
 LEFT JOIN

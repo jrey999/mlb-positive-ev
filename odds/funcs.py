@@ -9,7 +9,9 @@ MARKETS="/v4/sports/baseball_mlb/odds/?apiKey={}&regions=us&markets=h2h,spreads,
 
 def get_markets() -> list[dict]:
     
-    return requests.get(HOST + MARKETS.format(APIKEY)).json()
+    data = requests.get(HOST + MARKETS.format(APIKEY)).json()
+    json.dump(data, open("meta/sampledata/data.json", "w"), indent=0)
+    return data
 
 def get_team(long_name: str) -> str:
 

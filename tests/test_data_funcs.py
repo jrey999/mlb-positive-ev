@@ -1,4 +1,4 @@
-from data.funcs import get_team, iso_to_dt
+from odds.funcs import get_team, iso_to_dt
 
 
 def test_get_team() -> None:

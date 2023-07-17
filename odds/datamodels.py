@@ -1,4 +1,4 @@
-from data.funcs import get_team, fmt_odds, iso_to_dt
+from odds.funcs import get_team, fmt_odds, iso_to_dt
 import sqlite3
 
 
