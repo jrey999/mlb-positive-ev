@@ -8,9 +8,17 @@ The output is a Markdown table with matchups, dates, odds, and expected values f
 
 **Usage**
 
+Get **Free** API Key from [The Odds API](https://the-odds-api.com/)
+by clicking on the [Get API Key](https://the-odds-api.com/#get-access) button.
+
 Clone the repo
 ```bash
 git clone https://github.com/jrey999/mlb-positive-ev.git && cd mlb-positive-ev
+```
+
+Create a .env file in the root directory of the project with the following:
+```bash
+API_KEY=<your_api_key_here>
 ```
 
 Create and instantiate a virtual environment

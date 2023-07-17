@@ -1,9 +1,9 @@
-from dotenv import dotenv_values
-import requests, json, pytz, datetime
+import requests, json, pytz, datetime, dotenv, os
 
 
-config = {key: value for key, value in dotenv_values(".env").items()}
-HOST, APIKEY = "https://api.the-odds-api.com", config.get("api_key")
+dotenv.load_dotenv()
+config, session = {key: value for key, value in os.environ.items()}
+HOST, APIKEY = "https://api.the-odds-api.com", config.get("API_KEY")
 SPORTS = f"/v4/sports/?apiKey={APIKEY}"
 MARKETS="/v4/sports/baseball_mlb/odds/?apiKey={}&regions=us&markets=h2h,spreads,totals"
 
