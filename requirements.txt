@@ -4,9 +4,8 @@ idna==3.4
 iniconfig==2.0.0
 packaging==23.1
 pluggy==1.2.0
-pytest==7.4.0
 python-dotenv==1.0.0
 pytz==2023.3
 requests==2.31.0
-toRST==0.0.1
+toRST==0.1.0
 urllib3==2.0.3
