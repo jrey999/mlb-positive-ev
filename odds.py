@@ -16,6 +16,8 @@ for market in markets:
             for _ in odds:
                 data.append(MoneyLine(_) if _["market"] == "money_line" else Spread(_) if _["market"] == "spread" else Total(_))
 
-session.add_all(data)
-session.commit()
+with Session() as session:
+    for _ in data:
+        session.merge(_)
+    session.commit()
 session.close()
