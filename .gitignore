@@ -161,3 +161,12 @@ cython_debug/
 
 # database
 db.sqlite3
+
+
+#VS code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
