@@ -10,10 +10,10 @@ class Game(Base):
 
     __tablename__ = "game"
 
-    game_id = Column(String, primary_key=True)
-    away = Column(String)
-    home = Column(String)
-    game_date = Column(DateTime)
+    game_id = Column("game_id", String, primary_key=True)
+    away = Column("away", String)
+    home = Column("home", String)
+    game_date = Column("game_date", DateTime)
 
     def __init__(self, game_and_odds: dict) -> None:
 
@@ -26,11 +26,11 @@ class MoneyLine(Base):
 
     __tablename__ = "money_line"
 
-    game_id = Column(String)
-    sportsbook = Column(String) 
-    team = Column(String)
-    price = Column(REAL)
-    updated = Column(DateTime)
+    game_id = Column("game_id", String)
+    sportsbook = Column("sportsbook", String) 
+    team = Column("team", String)
+    price = Column("price", REAL)
+    updated = Column("updated", DateTime)
 
     __table_args__ = (
         PrimaryKeyConstraint('game_id', 'sportsbook', 'team', 'price'),
@@ -49,12 +49,12 @@ class Spread(Base):
 
     __tablename__ = "spread"
 
-    game_id = Column(String)
-    sportsbook = Column(String) 
-    team = Column(String)
-    price = Column(REAL)
-    point = Column(Numeric)
-    updated = Column(DateTime)
+    game_id = Column("game_id", String)
+    sportsbook = Column("sportsbook", String) 
+    team = Column("team", String)
+    price = Column("price", REAL)
+    point = Column("point", Numeric)
+    updated = Column("updated", DateTime)
 
     __table_args__ = (
         PrimaryKeyConstraint('game_id', 'sportsbook', 'team', 'price', 'point'),
@@ -74,12 +74,12 @@ class Total(Base):
 
     __tablename__ = "total"
 
-    game_id = Column(String)
-    sportsbook = Column(String)
-    over_under = Column(String)
-    price = Column(REAL)
-    point = Column(Numeric)
-    updated = Column(DateTime)
+    game_id = Column("game_id", String)
+    sportsbook = Column("sportsbook", String)
+    over_under = Column("over_under", String)
+    price = Column("price", REAL)
+    point = Column("point", Numeric)
+    updated = Column("updated", DateTime)
 
     __table_args__ = (
         PrimaryKeyConstraint("game_id", "sportsbook", "over_under", "price", "point"),
