@@ -4,7 +4,7 @@ from odds.funcs import get_markets, get_odds_info, fmt_odds
 
 
 Session = sessionmaker(bind=engine)
-session= Session()
+session = Session()
 markets, data = get_markets(), []
 for market in markets:
 

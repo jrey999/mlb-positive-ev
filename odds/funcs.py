@@ -7,6 +7,7 @@ HOST, APIKEY = "https://api.the-odds-api.com", config.get("API_KEY")
 SPORTS = f"/v4/sports/?apiKey={APIKEY}"
 MARKETS="/v4/sports/baseball_mlb/odds/?apiKey={}&regions=us&markets=h2h,spreads,totals"
 
+DATE = datetime.date()
 def get_markets() -> list[dict]:
     
     data = requests.get(HOST + MARKETS.format(APIKEY)).json()
@@ -49,7 +50,7 @@ def fmt_odds(odds_info: dict, line: list[dict]) -> list[dict]:
             "market": "money_line",       # market
             "team": get_team(line["outcomes"][0]["name"]),     # team
             "price": line["outcomes"][0]["price"],    # price
-            "updated": iso_to_dt(line["last_update"]),    # updated
+            "updated": line["last_update"],    # updated
         },
         {
             "game_id": odds_info["game_id"],           # game_id
@@ -57,7 +58,7 @@ def fmt_odds(odds_info: dict, line: list[dict]) -> list[dict]:
             "market": "money_line",       # market
             "team": get_team(line["outcomes"][1]["name"]),     # team
             "price": line["outcomes"][1]["price"],    # price
-            "updated": iso_to_dt(line["last_update"]),    # updated
+            "updated": line["last_update"],    # updated
         }
 
     ] if line["key"] == "h2h" else [
@@ -69,7 +70,7 @@ def fmt_odds(odds_info: dict, line: list[dict]) -> list[dict]:
             "team": get_team(line["outcomes"][0]["name"]),                  # team
             "price": line["outcomes"][0]["price"],     # price
             "point": line["outcomes"][0]["point"],                          # point
-            "updated": iso_to_dt(line["last_update"]),              # updated
+            "updated": line["last_update"],              # updated
         },
         {
            "game_id": odds_info["game_id"],           # game_id
@@ -78,7 +79,7 @@ def fmt_odds(odds_info: dict, line: list[dict]) -> list[dict]:
             "team": get_team(line["outcomes"][1]["name"]),                  # team
             "price": line["outcomes"][1]["price"],     # price
             "point": line["outcomes"][1]["point"],                          # point
-            "updated": iso_to_dt(line["last_update"]),              # updated
+            "updated": line["last_update"],              # updated
         }
     ] if line["key"] == "spreads" else [
         {
@@ -88,7 +89,7 @@ def fmt_odds(odds_info: dict, line: list[dict]) -> list[dict]:
             "name": line["outcomes"][0]["name"],        # name
             "price": line["outcomes"][0]["price"],     # price
             "point": line["outcomes"][0]["point"],      # point
-            "updated": iso_to_dt(line["last_update"]),              # updated
+            "updated": line["last_update"],              # updated
         },
         {
             "game_id": odds_info["game_id"],           # game_id
@@ -97,6 +98,6 @@ def fmt_odds(odds_info: dict, line: list[dict]) -> list[dict]:
             "name": line["outcomes"][1]["name"],        # name
             "price": line["outcomes"][1]["price"],     # price
             "point": line["outcomes"][1]["point"],      # point
-            "updated": iso_to_dt(line["last_update"]),              # updated
+            "updated": line["last_update"],              # updated
         }
     ] if line["key"] == "totals" else []

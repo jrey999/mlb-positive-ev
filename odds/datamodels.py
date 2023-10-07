@@ -1,7 +1,8 @@
-from odds.funcs import get_team, fmt_odds, iso_to_dt
+from odds.funcs import get_team, fmt_odds, iso_to_dt, get_markets, DATE
 from sqlalchemy import create_engine, Column, Integer, REAL, Numeric, String, DateTime, ForeignKey, PrimaryKeyConstraint, ForeignKeyConstraint
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import relationship
+from sqlalchemy.orm import relationship, sessionmaker
+from json import dump, load
 
 
 engine = create_engine("sqlite:///db.sqlite3")
@@ -43,7 +44,7 @@ class MoneyLine(Base):
         self.sportsbook = data["sportsbook"]
         self.team = data["team"]
         self.price = data["price"]
-        self.updated = data["updated"]
+        self.updated = iso_to_dt(data["updated"])
 
 class Spread(Base):
 
@@ -68,7 +69,7 @@ class Spread(Base):
         self.team = data["team"]
         self.price = data["price"]
         self.point = data["point"]
-        self.updated = data["updated"]
+        self.updated = iso_to_dt(data["updated"])
 
 class Total(Base):
 
@@ -93,6 +94,33 @@ class Total(Base):
         self.over_under = data["name"]
         self.price = data["price"]
         self.point = data["point"]
-        self.updated = data["updated"]
+        self.updated = iso_to_dt(data["updated"])
 
 Base.metadata.create_all(engine)
+
+def dump_objects() -> list:
+
+    markets, odds, games = get_markets(), [], []
+    for market in markets:
+
+        games.append(market)
+        for bookmaker in market["bookmakers"]:
+            sportsbook = bookmaker["key"]
+            for line in bookmaker["markets"]:
+                odds.append(fmt_odds({"game_id": market["id"], "sportsbook": sportsbook}, line))
+                
+    dump(games, open(f"mlb-positive-ev/data/raw/games-{DATE}.json", "w"), indent=0)
+    dump(odds, open(f"mlb-positive-ev/data/raw/odds-{DATE}.json", "w"), indent=0)
+    
+
+def write_objects() -> None:
+    Session = sessionmaker(bind=engine)
+    session = Session()
+    games, odds = load(open(f"mlb-positive-ev/data/raw/games-{DATE}.json", "r")), load(open(f"mlb-positive-ev/data/raw/odds-{DATE}.json", "r"))
+    data = [Game(_) for _ in games]
+    data += [MoneyLine(_) if _["market"] == "money_line" else Spread(_) if _["market"] == "spread" else Total(_) for _ in odds]
+    with Session() as session:
+        for _ in data:
+            session.merge(_)
+        session.commit()
+    session.close()
