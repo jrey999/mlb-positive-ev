@@ -13,13 +13,13 @@ dag = DAG(
 
 dump_data = PythonOperator(
     task_id="dump-data",
-    python_callable=write_objects,
+    python_callable=dump_objects,
     dag=dag
 )
 
 write_data = PythonOperator(
     task_id="write-data",
-    python_callable=dump_objects
+    python_callable=write_objects
 )
 
 dump_data >> write_data
