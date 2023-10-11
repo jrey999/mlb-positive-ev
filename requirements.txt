@@ -7,5 +7,6 @@ pluggy==1.2.0
 python-dotenv==1.0.0
 pytz==2023.3
 requests==2.31.0
+SQLAlchemy==1.4.49
 toRST==0.1.0
 urllib3==2.0.3
